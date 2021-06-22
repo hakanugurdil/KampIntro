@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe.config
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.exe
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\bin\Debug\ClassMetotDemo.pdb
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.exe
+C:\Users\hakan\source\repos\KampIntro\ClassMetotDemo\ClassMetotDemo\obj\Debug\ClassMetotDemo.pdb
