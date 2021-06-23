@@ -1,0 +1,7 @@
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\bin\Debug\GenericsMyDictionary.exe.config
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\bin\Debug\GenericsMyDictionary.exe
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\bin\Debug\GenericsMyDictionary.pdb
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\obj\Debug\GenericsMyDictionary.csprojAssemblyReference.cache
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\obj\Debug\GenericsMyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\obj\Debug\GenericsMyDictionary.exe
+C:\Users\hakan\source\repos\KampIntro\GenericsMyDictionary\obj\Debug\GenericsMyDictionary.pdb
